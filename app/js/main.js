@@ -31,7 +31,7 @@ setTimeout(function() {
             chartArea[i].style.display = "none";
         } 
         // insert chart screenshot here
-        document.getElementById("chart-fallback").innerHTML += '<img src="https://fm-static.cnbc.com/awsmedia/chart/2019/10/08/chart-error_wide.1570569331252.png" style="width: 100%;max-width:660px">';
+        document.getElementById("chart-fallback").innerHTML += '<img src="https://fm.cnbc.com/applications/cnbc.com/resources/files/2020/01/29/auto-insurance-rates-graphic.png" style="width: 100%;max-width:660px">';
     } else {
         // console.log('yesId')
     }
